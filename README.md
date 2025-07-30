@@ -10,7 +10,7 @@
 - 💻 Desarrollador Full-Stack de aplicaciones web.
 - 📱 Actualmente, estoy aprendiendo a desarrollar aplicaciones móviles.
 - 🤖 También, estoy aprendiendo sobre machine learning y deep learning.
-- 🚀 Listo para nuevas oportunidades laborales. Este es [MI CV]().
+- 🚀 Listo para nuevas oportunidades laborales. [MI CV]().
 
 <h2>Tecnologías</h2>
 
@@ -50,4 +50,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=tripalidex&theme=dark)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tripalidex&layout=compact&theme=dark)
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHlneHBuZ3p6ajkwOWh4MHh1dTYybjQzcGkzMzE1NTM1MzZ1dmZ0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/hS42TuYYnANLFR9IRQ/giphy.gif" width="205"/>
+<!-- <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHlneHBuZ3p6ajkwOWh4MHh1dTYybjQzcGkzMzE1NTM1MzZ1dmZ0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/hS42TuYYnANLFR9IRQ/giphy.gif" width="205"/> -->
