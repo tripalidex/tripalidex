@@ -10,7 +10,7 @@
 - 💻 Desarrollador Full-Stack de aplicaciones web.
 - 📱 Actualmente, estoy aprendiendo a desarrollar aplicaciones móviles.
 - 🤖 También, estoy aprendiendo sobre machine learning y deep learning.
-- 🤖 Listo para nuevas oportunidades laborales.
+- Listo para nuevas oportunidades laborales.
 
 <h2>Tecnologías</h2>
 
