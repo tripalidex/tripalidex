@@ -7,7 +7,7 @@
 
 <!-- Seccion sobre mi -->
 - 👨‍💻 Estudio la carrera de Ingeniería de Software en la universidad San Ignacio de Loyola.
-- 💻 Desarrollador Full-Stack de aplicaciones web.
+- 💻 Desarrollador web Full-Stack.
 - 📱 Actualmente, estoy aprendiendo a desarrollar aplicaciones móviles.
 - 🤖 También, estoy aprendiendo sobre machine learning y deep learning.
 - Listo para nuevas oportunidades laborales...
