@@ -7,7 +7,6 @@
 </picture>
 
 - 🎓 Studying **Software Engineering** at San Ignacio de Loyola University.
-- 💻 **Full Stack** Developer.
 - 📱 Currently learning **Mobile** development.
 - 🤖 Also exploring **Machine Learning** & Deep Learning.
 - 💼 Ready for new job opportunities.
