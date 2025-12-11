@@ -11,7 +11,6 @@
 - 📱 I'm currently learning **Mobile** development.
 - 🤖 I'm also exploring **Machine Learning** & Deep Learning.
 - 💼 Ready for new job opportunities.
-<img src="https://komarev.com/ghpvc/?username=tripalidex&style=flat-square&color=blue" alt=""/>
 
 <br/>
 <h2>💻 Tech Stack</h2>
