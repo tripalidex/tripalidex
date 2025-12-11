@@ -3,13 +3,15 @@
 	Hi!, I'm Carlos
 </h1>
 <picture>
-	<img align="right" width="48%" src="https://github-readme-stats.vercel.app/api?username=tripalidex&show_icons=true&theme=dark">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=tripalidex&theme=dark&show_icons=true">
+    <img align="right" width="48%" src="https://github-readme-stats-ouuan.vercel.app/api?username=tripalidex&show_icons=true">
 </picture>
 
-- 🎓 Studying **Software Engineering** at San Ignacio de Loyola University.
-- 📱 Currently learning **Mobile** development.
-- 🤖 Also exploring **Machine Learning** & Deep Learning.
+- 🎓 I'm studying **Software Engineering** at San Ignacio de Loyola University.
+- 📱 I'm currently learning **Mobile** development.
+- 🤖 I'm also exploring **Machine Learning** & Deep Learning.
 - 💼 Ready for new job opportunities.
+<img src="https://komarev.com/ghpvc/?username=tripalidex&style=flat-square&color=blue" alt=""/>
 
 <br/>
 <h2>💻 Tech Stack</h2>
